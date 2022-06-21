@@ -8,12 +8,21 @@
 
 Любые вопросы по решению задач задавайте в студенческом чате (ссылку вы найдете в письме на вашей эл. почте).
 
-9.1	Каталог товаров и фильтрация
-9.2	Цены. Типы цен. Ценообразование
-9.3	Выгрузка каталога из 1С
-9.4	Корзина: добавление товара. Компонент корзины.
-9.5	Оформление заказа. Заказ в админ-панели: оплаты, отгрузки
-9.6	Службы доставки. Создание своей службы доставки.
-9.7	Платежные системы. Создание своей платежной системы
-9.8	Работа с заказом из API
-9.9	Обмен заказами с 1С
+[9.1	Каталог товаров и фильтрация](https://github.com/netology-code/bbay-homeworks/blob/main/9.1/9.1_homework.md)
+
+[9.2	Цены. Типы цен. Ценообразование](https://github.com/netology-code/bbay-homeworks/blob/main/9.2/9.2_homework.md)
+
+[9.3	Выгрузка каталога из 1С](https://github.com/netology-code/bbay-homeworks/blob/main/9.3/9.3_homework.md)
+
+[9.4	Корзина: добавление товара. Компонент корзины](https://github.com/netology-code/bbay-homeworks/blob/main/9.4/9.4_homework.md)
+
+[9.5	Оформление заказа. Заказ в админ-панели: оплаты, отгрузки](https://github.com/netology-code/bbay-homeworks/blob/main/9.5/9.5_homework.md)
+
+[9.6	Службы доставки. Создание своей службы доставки](https://github.com/netology-code/bbay-homeworks/blob/main/9.6/9.6_homework.md)
+
+[9.7	Платежные системы. Создание своей платежной системы](https://github.com/netology-code/bbay-homeworks/blob/main/9.7/9.7_homework.md)
+
+[9.8	Работа с заказом из API](https://github.com/netology-code/bbay-homeworks/blob/main/9.8/9.8_homework.md)
+
+[9.9	Обмен заказами с 1С](https://github.com/netology-code/bbay-homeworks/blob/main/9.9/9.9_homework.md)
+
